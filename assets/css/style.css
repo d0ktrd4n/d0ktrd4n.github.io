@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #002000;
+	color: #000000;
 	background-color: #647f62;
 }
 
@@ -10,7 +10,7 @@ body{
 	top: 0px;
 	padding-top: 7%;
 	background-color: #002000;
-	color: #b2d2b2;
+	color: #77370B;
 }
 
 .sidebar-header {
@@ -83,7 +83,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #77370B;
+	color: #77370B; 
 	text-shadow: 1px 1px 1px rgba(32, 32, 32, 2);
 }
 
@@ -131,7 +131,7 @@ article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #258524;
+	color: #002200;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
