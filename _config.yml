@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: ''
 google_analytics: '' 
-title: d0ktrd4n''s notes
+title: d0ktrd4n's notes
 
 defaults:
   -
@@ -16,7 +16,7 @@ defaults:
     values:
       title: dbyll
 
-description: d0ktrd4n''s notes
+description: d0ktrd4n's notes
 author:
   name: d0ktrd4n  
   email: d0ktrd4n@pm.me
