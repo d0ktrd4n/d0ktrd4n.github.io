@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: d0ktrd4n's notes
 
-description: d0ktrd4n's notes
+description: d0ktrd4n
 author:
   name: d0ktrd4n  
   email: d0ktrd4n@pm.me
