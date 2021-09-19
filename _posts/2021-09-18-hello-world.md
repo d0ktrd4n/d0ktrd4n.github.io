@@ -7,4 +7,4 @@ fullview: true
 comments: false
 ---
 
-# Hello, this is a new begining, now using GitHub Pages. 
+Hello, this is a new begining, now using GitHub Pages. 
