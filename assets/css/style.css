@@ -13,6 +13,10 @@ body{
 	color: #b2d2b2;
 }
 
+.text-muted {
+	color: #103310; 
+}
+
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
@@ -27,7 +31,7 @@ body{
 	color: #b2d2b2;
 }
 
-a { color: #77370B; } 
+a { color: #204020; } 
 
 a.nav-link {
 	padding-bottom: 5px;
@@ -154,7 +158,7 @@ footer {
 
 /* nav-vertical-tabs component */
 .nav-tabs-vertical {
-    border-right: 1px solid #0ddd00
+    border-right: 1px solid #00dd00
 }
 
 .nav-tabs-vertical li {
@@ -165,7 +169,7 @@ footer {
     color: #555;
     cursor: default;
     background-color: #b2d2b2;
-    border: 1px solid #0ddd00
+    border: 1px solid #00dd00
     border-right-color: transparent;
 }
 
@@ -175,7 +179,7 @@ footer {
     border-radius: 4px 0 0 4px;
 }
 
-.badge { background: #258524; }
+.badge { background: #003300; }
 
 #nav-menu{
     position: fixed;
