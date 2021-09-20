@@ -130,14 +130,14 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #258524;
+	color: #002200;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #002200;
+	color: #77370B;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
@@ -196,3 +196,14 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+code {
+	background-color: #b2d2b2;
+}
+
+.highlight {
+	background: #b2d2b2
+}
+
+pre {
+	color: #ccc;
+}
