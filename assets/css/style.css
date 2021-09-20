@@ -118,6 +118,11 @@ article {
 	padding: 0 5% 0;
 }
 
+a:hover { 
+	color: #88ee88;
+
+}
+
 article.home div a, article.home pre a { color: #002000; }
 article.home div a:hover, article.home pre a:hover { color: #002000; text-decoration: none; }
 article img { max-width: 100%; }
