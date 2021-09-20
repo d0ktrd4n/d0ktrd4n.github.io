@@ -209,6 +209,7 @@ pre {
 	border: 2px solid #333;
 }
 
-blockquote p:last-child {
+blockquote {
+	border-left: 6px solid #ccc; 
 	background-color: #b2d2b2;
 }
