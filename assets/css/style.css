@@ -201,9 +201,14 @@ code {
 }
 
 .highlight {
-	background: #b2d2b2
+	background: #000000;
 }
 
 pre {
 	color: #ccc;
+	border: 2px solid #333;
+}
+
+blockquote p:last-child {
+	background-color: #b2d2b2;
 }
