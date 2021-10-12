@@ -7,7 +7,9 @@ fullview: false
 comments: false
 ---
 
-This will be the first of a series of posts about vulnerabilities found in [Hack-the-box](https://hackthebox.eu)(HTB) machines, and also associated recommendations for mitigating those vulnerabilities. In all posts of this series, you'll find the following disclaimer.  
+This will be the first of a series of posts about vulnerabilities found in [Hack-the-box](https://hackthebox.eu)(HTB) machines, and also associated recommendations for mitigating those vulnerabilities. 
+
+In all posts of this series, you'll find the following disclaimer.  
 
 > Disclaimer: This is not a walkthrough on how to own machines. Instead, I'll be using **retired** [Hack-the-box](https://hackthebox.eu)(HTB) machines as examples to discuss vulnerabilities, exploitation, and mitigation. If you have access to the retired machine, you would have to work through the "hints" found here. 
 
