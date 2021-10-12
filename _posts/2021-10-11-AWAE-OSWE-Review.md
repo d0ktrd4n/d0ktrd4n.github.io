@@ -68,7 +68,9 @@ That said, while writing it, I noticed two things:
 So, I finished it with doubts still polluting my mind. 
 
 A couple of days later, I did receive the exams results and was I glad! 
-![[Pasted image 20211011185308.png]]
+
+![image](https://user-images.githubusercontent.com/90990911/137024030-be3ec329-0435-442f-afea-94c7e800b52e.png)
+
 
 ### Lessons Learned
 1. **During training, do as much "Extra Miles" as possible, including the "Lab" boxes (Answers, DocEdit, and Sqeakr).** Even if what you learn from them is not directly applied to the Exam, it will help you. And it will also help you in your professional life. Guaranteed!
@@ -80,4 +82,4 @@ A couple of days later, I did receive the exams results and was I glad!
 
 Overall, AWAE was a great experience, one that I do find very valuable for penetration testers, security professional, and any web developer.. heck, any developer would find value in such a course.  
 
-My favorite parts was the variety of environments, programming languages, and techniques discussed during the course, and the discussions that happened on the Discord Channel. 
+My favorite parts was the discussions that happened on the Discord channel and the variety of environments, programming languages, and techniques presented and discussed during the course. 
