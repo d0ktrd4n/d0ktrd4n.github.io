@@ -1,4 +1,13 @@
-# AWAE-OSWE Review
+---
+layout: post
+title: AWAE/OSWE Review
+categories: [informational]
+tags: [review]
+fullview: true
+comments: false
+---
+
+## AWAE-OSWE Review
 
 In 2019, Offensive Security finally released their Advanced Web Attacks and Exploitation (AWAE) course and its associated Offensive Security Web Expert (OSWE) certification in an online format. 
 
@@ -6,7 +15,7 @@ This is a course focused on web applications and, more notably, on what is calle
 
 As this is a course that deals directly and heavily with source code analysis, I believe it is a great experience not only for penetration testers, but also for web application developers. Note that it includes examples with different programming languages and frameworks, including PHP, Javascript/NodeJS, C#, Java, and more.   
 
-## Taking the course
+### Taking the course
 For those who are familiar with Offensive Security courses, for AWAE (or WEB-300 as it's currentlly officially called) the student will receive a PDF file, accompanying video lessons, and VPN access to servers for exercises and practice. 
 
 The PDF's Table of Contents (or what they call the "Syllabus") is actually [publicly available](https://www.offensive-security.com/documentation/awae-syllabus.pdf) and does give a good insight of the topics covered. It goes from the basics of using Burp Suite, to many techniques on how to bypass authentication and get to Remote Code Execution (RCE). We get to play with XSS (Cross-Site Scripting) vulnerabilities, type juggling, vulnerabilities in templates, and more. One of the things I personally liked the most is that the student is also exposed to different programming languages, which, I believe, helps to generate a more well-rounded professional. While, as previously mentioned, most of the book is actually focused on white box testing, the last chapter takes the student through a black-box assessment, which may be very valuable in the student's professional career. 
@@ -26,7 +35,7 @@ If you do have time between the course and the exam, I'd also suggest you to try
 A great resource for this course is actually Offensive Security's Discord Server. When you enroll in the course, you can request access to a private channel for WEB-300 Students. This channel is frequented by peers, people who have already taken the course, and for "community companions". In general, everyone is willing to help you the best way possible so that you learn the topics. Spoilers are not welcome, though. 
 
 
-## Taking the exam
+### Taking the exam
 
 I'll keep all (or most) of the details away, due to Offensive Security's Academic Policy. But here go some lessons I can share. 
 
@@ -63,13 +72,13 @@ So, I finished it with doubts still polluting my mind.
 A couple of days later, I did receive the exams results and was I glad! 
 ![[Pasted image 20211011185308.png]]
 
-## Lessons Learned
+### Lessons Learned
 1. **During training, do as much "Extra Miles" as possible, including the "Lab" boxes (Answers, DocEdit, and Sqeakr).** Even if what you learn from them is not directly applied to the Exam, it will help you. And it will also help you in your professional life. Guaranteed!
 2. **Keep a checklist of things to be tested and stick with it.** ApexPredator, from the OffSec Discord, created [this one](https://github.com/ApexPredator-InfoSec/AWAE-OSWE), which I found very useful. If I had really followed the checklist, I wouldn't have wasted time wondering and completed it even quickier.
 3. **Use your time wisely.** Take screenshots as you go. If you have spare time, use it to start the report. Things are fresher on your mind and if you notice something is missing in terms of evidence, you can still gather it. Also, hindsight is 20/20. As it happened to me, during the report, you may realize that there could be better/easier/smarter ways, and you wouldn't need to wonder if you could have done things differently.  
 4. **Be social!** Join the discord channel and have nice conversations about security with people all over the world. It's a fun way to learn. 
 
-## Final thoughts
+### Final thoughts
 
 Overall, AWAE was a great experience, one that I do find very valuable for penetration testers, security professional, and any web developer.. heck, any developer would find value in such a course.  
 
