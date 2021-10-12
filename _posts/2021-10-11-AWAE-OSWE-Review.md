@@ -7,7 +7,7 @@ fullview: true
 comments: false
 ---
 
-In 2019, Offensive Security finally released their Advanced Web Attacks and Exploitation (AWAE) course and its associated Offensive Security Web Expert (OSWE) certification in an online format. 
+In 2019, Offensive Security finally released their Advanced Web Attacks and Exploitation (AWAE) course and its associated Offensive Security Web Expert (OSWE) certification in an online format. This post is a review of my experience taking the course and the exam for the certification. 
 
 This is a course focused on web applications and, more notably, on what is called "White Box" testing. That means, a security test (or assessment) in which we have access to the source code, database, and everything that is involved, so that we can assess and search for any vulnerabilities.  
 
