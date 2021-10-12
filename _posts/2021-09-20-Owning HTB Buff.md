@@ -3,7 +3,7 @@ layout: post
 title: Owning HTB Buff
 categories: [informational]
 tags: [easy,htb]
-fullview: true
+fullview: false
 comments: false
 ---
 
