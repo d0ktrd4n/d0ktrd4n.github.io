@@ -7,9 +7,9 @@ fullview: false
 comments: false
 ---
 
-On Linux, by default, an area of **5%** of your storage is reserved for emergencies (if you HD gets full, the OS needs space for it not to crash quickly).
+Many users are unaware, but on Linux, by default, an area of **5%** of your storage is reserved for emergencies (if you HD gets full, the OS may need space for it not to crash quickly). I believe that  5% is too much. This post shows how you can increase your storage area, which I find to be particularly useful for external devices that are often used for backup. 
 
-5% space probably would make sense in older times, when our storage area was a lot smaller. If you have a good sized HD/SSD (500GB, 1T, or more), this may actually be a tremendous overkill, and waste of space. For **500GB** it means that you have **25GB** that you cannot use, if you have a 1T disk, it's about 50GB of unusable space... well... except if the OS needs for "emergencies".
+5% space would probably make sense in older times, when our storage area was a lot smaller. If you have a good sized HD/SSD (500GB, 1T, or more), this may actually be a tremendous overkill, and waste of space. For **500GB** it means that you have **25GB** that you cannot use, if you have a 1T disk, it's about 50GB of unusable space... well... except if the OS needs for "emergencies".
 
 You can find how many blocks are reserved and the size of each block in bytes (often 4096 bytes/4kB) by running  the following command:
 ```bash
