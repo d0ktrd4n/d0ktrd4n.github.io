@@ -12,7 +12,7 @@ Many users are unaware, but on Linux, by default, an area of **5%** of your stor
 5% space would probably make sense in older times, when our storage area was a lot smaller. If you have a good sized HD/SSD (500GB, 1T, or more), this may actually be a tremendous overkill, and waste of space. For **500GB** it means that you have **25GB** that you cannot use, if you have a 1T disk, it's about 50GB of unusable space... well... except if the OS needs for "emergencies".
 
 You can find how many blocks are reserved and the size of each block in bytes (often 4096 bytes/4kB) by running  the following command:
-```bash
+```
 tune2fs -l /dev/sdXX | grep -E "Reserved block count|Block size"
 ```
 
@@ -23,7 +23,7 @@ This is not the worse yet. The same thing also applies to any storage device. Fo
 For full disclosure, what I am discussing here may apply to a device that is formatted with FAT/NTFS. I still need to check that out. 
 
 The good news is that you can reduce the reserved space using the following command: 
-```bash
+```
 tune2fs -r YYYYYY /dev/sdXX
 ``` 
 Where `YYYYYY` is the number of blocks (divide the space you intend to reserve by the number of bytes in a block) and `sdxx` is the partition you want to modify. 
